@@ -1,0 +1,16 @@
+{
+  "name": "Reproductor de Radio",
+  "short_name": "Astro Tuner",
+  "description": "Reproductor de radio basado en Howler.",
+  "display": "standalone",
+  "background_color": "#1a1e24",
+  "theme_color": "#28292a",
+  "icons": [
+    {
+      "src": "/icon/android-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
