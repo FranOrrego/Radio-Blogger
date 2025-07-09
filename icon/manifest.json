@@ -7,7 +7,7 @@
   "theme_color": "#28292a",
   "icons": [
     {
-      "src": "/icon/android-maskable-512x512.png",
+      "src": "https://cdn.jsdelivr.net/gh/FranOrrego/Radio-Blogger@cea54e9e3f7a60e8c52731714c569e8c04d16e67/icon/android-maskable-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
